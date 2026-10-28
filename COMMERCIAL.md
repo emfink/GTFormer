@@ -37,6 +37,5 @@ To inquire about pilot evaluations, annual production pricing, or custom revenue
 
 * **Copyright Holder / Author:** Elisabeth Fink
 * **Email:** elisabethmfink@gmail.com
-* **Website / Contact Link:** [Optional Website or LinkedIn URL]
 
 *Note: Unauthorized commercial use of this software in closed-source products or network services without a valid Commercial License is a violation of copyright law and the GNU AGPLv3.*
