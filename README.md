@@ -212,4 +212,4 @@ After every completed model run, the suite updates four files in --out_dir:
 
 -------
 
-This project is licensed under the GNU Affero General Public License.
+This project is licensed under the GNU Affero General Public License (AGPL-3.0).
